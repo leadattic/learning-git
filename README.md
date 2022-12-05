@@ -1,4 +1,2 @@
 # Learning git
-**YOO**
-*YO*
-***YO***
+Hello Bro's 
